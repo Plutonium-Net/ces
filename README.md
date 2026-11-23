@@ -1,2 +1,0 @@
-# ces
-clip extension source
